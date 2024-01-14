@@ -1,6 +1,12 @@
 # Sszostak23.github.io
 Hello there! I'm Szymon, a first-year cybersecurity student at AGH University in Cracow.
 
+Hobbies:
+Sport, Reading, Coding, Travel
+
+Fav Drinks:
+Green Tea
+
 Here's some of my code:
            
     class SNAKE():
