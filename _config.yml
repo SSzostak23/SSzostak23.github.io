@@ -1,0 +1,21 @@
+# _config.yml
+
+# Site settings
+title: SSzostak23's GitHub Pages site
+description: This site is my presentation
+url: "https://SSzostak23.github.io"
+
+# GitHub Pages settings
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+# Author information
+author:
+  name: Szymon
+  bio: Cybersecurity student 
+  github: SSzostak23
